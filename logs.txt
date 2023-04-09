@@ -1,0 +1,22 @@
+commit 51329e61cfe2e5dd915845fe52d45da80eaf30f7 (HEAD -> master, origin/master, origin/bug3)
+Author: Tamara Josifovska <tamara.josifovska@students.finki.ukim.mk>
+Date:   Sun Apr 9 23:03:11 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 0a20ca4fd6f0d1dd7ce6b3e2cb15c030db9285e5
+Merge: bc07470 c9e3e35
+Author: Tamara Josifovska <tamara.josifovska@students.finki.ukim.mk>
+Date:   Sun Apr 9 23:04:37 2023 +0200
+
+    Merge branch 'bug2'
+
+commit c9e3e356f9d9a7dc7d45bb34aa690235de10f98b (origin/bug2)
+Author: Tamara Josifovska <tamara.josifovska@students.finki.ukim.mk>
+Date:   Sun Apr 9 23:01:41 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit bc074700c2b325c5f91dc803b6925dba732f5f94 (origin/bug1)
+Author: Tamara Josifovska <tamara.josifovska@students.finki.ukim.mk>
+Date:   Sun Apr 9 22:59:33 2023 +0200
